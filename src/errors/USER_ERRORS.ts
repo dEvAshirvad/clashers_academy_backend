@@ -44,5 +44,5 @@ export const USER_ERROR = {
         STATUS: 401,
         TITLE: "WRONG_PASSWORD",
         MESSAGE: "Wrong password. Please try again.",
-    }
+    },
 }
